@@ -1,0 +1,13 @@
+#headr{
+color: red;
+top: 25px;
+position: relative;
+width: 300px;
+left: 30px;
+}
+.table{
+width: 100%;
+}
+th{
+background-color: #f2f2;
+}
